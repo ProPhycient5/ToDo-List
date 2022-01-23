@@ -1,2 +1,2 @@
 # ToDo-List
-DaisyUI webApp
+DaisyUI webApp: You can enlist your daily tasks by using this simple SPA webapp.
