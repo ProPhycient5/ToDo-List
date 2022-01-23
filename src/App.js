@@ -7,9 +7,10 @@ function App() {
         <h1 className="text-4xl font-serif animate-bounce text-green-500">
           Hello ReactJS community, I have joined you. Don't worry.
         </h1>
-        <button className="bg-blue-600 p-1 text-center w-28 rounded-full text-gray-300">
+        {/* <button className="bg-blue-600 p-1 text-center w-28 rounded-full text-gray-300">
           Launch
-        </button>
+        </button> */}
+        <button class="btn btn-primary">daisyUI Button</button>
       </div>
     </div>
   );
